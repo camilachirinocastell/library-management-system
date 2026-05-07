@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "nombre": "Jane Austen",
+    "nacionalidad": "Británica",
+    "año": 1775
+  },
+  {
+    "id": "2",
+    "nombre": "Charlotte Brontë",
+    "nacionalidad": "Británica",
+    "año": 1816
+  },
+  {
+    "id": "3",
+    "nombre": "Emily Brontë",
+    "nacionalidad": "Británica",
+    "año": 1818
+  },
+  {
+    "id": "4",
+    "nombre": "Anne Brontë",
+    "nacionalidad": "Británica",
+    "año": 1820
+  },
+  {
+    "id": "5",
+    "nombre": "Elizabeth Gaskell",
+    "nacionalidad": "Británica",
+    "año": 1810
+  },
+  {
+    "id": "6",
+    "nombre": "George Eliot",
+    "nacionalidad": "Británica",
+    "año": 1819
+  }
+]

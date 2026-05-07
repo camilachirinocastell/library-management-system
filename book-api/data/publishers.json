@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nombre": "T. Egerton",
+    "pais": "Reino Unido",
+    "añoFundacion": 1783
+  },
+  {
+    "id": "2",
+    "nombre": "Smith, Elder & Co.",
+    "pais": "Reino Unido",
+    "añoFundacion": 1816
+  },
+  {
+    "id": "3",
+    "nombre": "Thomas Newby",
+    "pais": "Reino Unido",
+    "añoFundacion": 1843
+  },
+  {
+    "id": "4",
+    "nombre": "Chapman and Hall",
+    "pais": "Reino Unido",
+    "añoFundacion": 1830
+  },
+  {
+    "id": "5",
+    "nombre": "William Blackwood and Sons",
+    "pais": "Reino Unido",
+    "añoFundacion": 1804
+  }
+]

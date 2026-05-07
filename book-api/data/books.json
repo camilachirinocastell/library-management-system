@@ -1,0 +1,113 @@
+
+   [
+  {
+    "id": "1",
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "año": 1813,
+    "genero": "Novela romántica / Social",
+    "disponible": false,
+    "añoPrimeraEdicion": 1813,
+    "editorialPrimeraEdicion": "T. Egerton",
+    "primeraEdicion": true
+  },
+  {
+    "id": "2",
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "año": 1847,
+    "genero": "Novela romántica / Bildungsroman",
+    "disponible": false,
+    "añoPrimeraEdicion": 1847,
+    "editorialPrimeraEdicion": "Smith, Elder & Co.",
+    "primeraEdicion": true
+  },
+  {
+    "id": "3",
+    "titulo": "Cumbres borrascosas",
+    "autor": "Emily Brontë",
+    "año": 1847,
+    "genero": "Novela gótica / Romántica",
+    "disponible": false,
+    "añoPrimeraEdicion": 1847,
+    "editorialPrimeraEdicion": "Thomas Newby",
+    "primeraEdicion": true
+  },
+  {
+    "id": "4",
+    "titulo": "Agnes Grey",
+    "autor": "Anne Brontë",
+    "año": 1847,
+    "genero": "Novela realista / Bildungsroman",
+    "disponible": true,
+    "añoPrimeraEdicion": 1847,
+    "editorialPrimeraEdicion": "Thomas Newby",
+    "primeraEdicion": true
+  },
+  {
+    "id": "5",
+    "titulo": "La inquilina de Wildfell Hall",
+    "autor": "Anne Brontë",
+    "año": 1848,
+    "genero": "Novela social / Realista",
+    "disponible": true,
+    "añoPrimeraEdicion": 1848,
+    "editorialPrimeraEdicion": "Thomas Newby",
+    "primeraEdicion": true
+  },
+  {
+    "id": "6",
+    "titulo": "Shirley",
+    "autor": "Charlotte Brontë",
+    "año": 1849,
+    "genero": "Novela social",
+    "disponible": true,
+    "añoPrimeraEdicion": 1849,
+    "editorialPrimeraEdicion": "Smith, Elder & Co.",
+    "primeraEdicion": true
+  },
+  {
+    "id": "7",
+    "titulo": "Villette",
+    "autor": "Charlotte Brontë",
+    "año": 1853,
+    "genero": "Novela romántica / Psicológica",
+    "disponible": true,
+    "añoPrimeraEdicion": 1853,
+    "editorialPrimeraEdicion": "Smith, Elder & Co.",
+    "primeraEdicion": true
+  },
+  {
+    "id": "8",
+    "titulo": "Norte y Sur",
+    "autor": "Elizabeth Gaskell",
+    "año": 1855,
+    "genero": "Novela social / Romántica",
+    "disponible": true,
+    "añoPrimeraEdicion": 1855,
+    "editorialPrimeraEdicion": "Chapman and Hall",
+    "primeraEdicion": true
+  },
+  {
+    "id": "9",
+    "titulo": "El profesor",
+    "autor": "Charlotte Brontë",
+    "año": 1857,
+    "genero": "Novela realista",
+    "disponible": true,
+    "añoPrimeraEdicion": 1857,
+    "editorialPrimeraEdicion": "Smith, Elder & Co.",
+    "primeraEdicion": true
+  },
+  {
+    "id": "10",
+    "titulo": "Middlemarch",
+    "autor": "George Eliot",
+    "año": 1871,
+    "genero": "Novela realista / Psicológica",
+    "disponible": true,
+    "añoPrimeraEdicion": 1871,
+    "editorialPrimeraEdicion": "William Blackwood and Sons",
+    "primeraEdicion": true
+  }
+]
