@@ -1,0 +1,19 @@
+# System files
+# .DS_Store es un archivo oculto que Mac genera automáticamente en cada carpeta
+.DS_Store
+
+# Dependencies
+# node_modules/ es la carpeta donde Node.js guarda todas las dependencias instaladas con npm
+# Puede pesar cientos de MB, por eso nunca se sube a GitHub
+# Cualquiera que clone el proyecto puede recrearla con "npm install"
+node_modules/
+
+# Environment variables
+# .env es el archivo donde se guardan variables privadas como API keys y contraseñas
+# Nunca se sube a GitHub para no exponer datos sensibles
+.env
+
+# Editor settings
+# .vscode/ guarda configuraciones locales del editor Visual Studio Code
+# Como cada desarrolladora puede tener sus propias preferencias, no se comparte
+.vscode/
