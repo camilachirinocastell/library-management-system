@@ -34,5 +34,10 @@
     "nombre": "George Eliot",
     "nacionalidad": "Británica",
     "año": 1819
+  },
+  {
+    "id": "1454ee35-2be7-4675-9a66-ddb535dd6e63",
+    "nombre": "Virginia Woolf",
+    "nacionalidad": "Británica"
   }
 ]

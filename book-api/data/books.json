@@ -1,5 +1,4 @@
-
-   [
+[
   {
     "id": "1",
     "titulo": "Orgullo y prejuicio",
@@ -109,5 +108,11 @@
     "añoPrimeraEdicion": 1871,
     "editorialPrimeraEdicion": "William Blackwood and Sons",
     "primeraEdicion": true
+  },
+  {
+    "id": "53f93638-bbe2-437d-95fe-477934cb9760",
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "anio": "1897"
   }
 ]
